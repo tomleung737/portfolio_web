@@ -27,7 +27,7 @@ const Hero = () => {
       <EarthCanvas />
 
       
-      <div className="absolute xs:bottom-10 bottom-20 w-full flex flex-col 
+      <div className="absolute xs:bottom-10 bottom-32 w-full flex flex-col 
         justify-center items-center"
       >
         <div className="mb-5">Click to scroll down</div>
