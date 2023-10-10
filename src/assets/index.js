@@ -9,7 +9,7 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import nextJS from './tech/nextJS-light.svg'
+import nextJS from './tech/nextjs-light.svg'
 import python from './tech/python.svg'
 import pytorch from './tech/pytorch.svg'
 import plotly from './tech/plotly.svg'
